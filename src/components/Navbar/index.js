@@ -47,7 +47,7 @@ const Navbar = ({ toggleTheme }) => {
   href={Bio.linkedin} 
   target="_blank"
  >
-  LinkedIn
+ LinkedIn
 </LinkedInButton>
           </MobileMenu>
         }
