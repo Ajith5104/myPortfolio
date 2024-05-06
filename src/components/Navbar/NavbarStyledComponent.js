@@ -1,6 +1,6 @@
 import { Link as LinkR } from 'react-router-dom';
 import styled from 'styled-components';
-import _default from '../../themes/default';
+// import _default from '../../themes/default';
 
 export const Nav = styled.div`
     background-color: ${({theme}) => theme.card_light};
@@ -73,7 +73,7 @@ export const NavLink = styled.a`
 `;
 
 
-export const GitHubButton = styled.a`
+export const LinkedInButton = styled.a`
   border: 1.8px solid ${({ theme }) => theme.primary};
   justify-content: center;
   display: flex;

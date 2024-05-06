@@ -4,7 +4,7 @@ import Tooltip from "@mui/material/Tooltip";
 import PhoneIcon from "@mui/icons-material/Phone";
 import MailIcon from "@mui/icons-material/Mail";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-// import InstagramIcon from '@mui/icons-material/Instagram';
+import InstagramIcon from '@mui/icons-material/Instagram';
 import WhatsAppIcon from "@mui/icons-material/WhatsApp";
 import GitHubIcon from "@mui/icons-material/GitHub"; // Import GitHub Icon
 import { Bio } from "../../data/constants";
@@ -135,11 +135,11 @@ const YourComponent = () => {
             </SocialMediaIcon>
           </CustomTooltip>
           {/* Instagram Icon with Custom Tooltip */}
-          {/* <CustomTooltip title="Instagram" arrow>
+           <CustomTooltip title="Instagram" arrow>
             <SocialMediaIcon href={Bio.insta} target="display">
               <InstagramIcon />
             </SocialMediaIcon>
-          </CustomTooltip> */}
+          </CustomTooltip>
           {/* WhatsApp Icon with Custom Tooltip */}
           <CustomTooltip title="WhatsApp" arrow>
             <SocialMediaIcon

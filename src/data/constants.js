@@ -14,7 +14,7 @@ export const Bio = {
     "https://drive.google.com/file/d/1jCPz0HkvW5hQBg85d1iJjbkp-Elc7WWm/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ajithkumar22/",
   email: "mailto:ajithkumar51046@gmail.com",
-  // insta: "https://www.instagram.com/ajithtechy22/",
+  insta: "https://www.instagram.com/ajithtechy22/",
   phone: "tel:+918754083032",
   whatsapp: 8754083032,
 };
@@ -192,7 +192,7 @@ export const projects = [
   {
     id: 0,
     title: "GreensCart",
-    date: "2023",
+    date: "2023 - 2024",
     description:
       "Discover a modern e-commerce experience with our platform developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Our frontend is designed to be responsive and user-friendly, utilizing Bootstrap for seamless navigation across devices. Complete your purchases securely using the Stripe API, ensuring smooth and reliable payment processing. Stay informed with real-time email notifications powered by the Mailtrap API, keeping you updated on orders and promotions. Explore a wide range of products with ease, thanks to our intuitive interface and dynamic features. With cutting-edge technology and a focus on user experience, our e-commerce website offers a streamlined shopping journey tailored to your needs.",
     image:
@@ -205,7 +205,7 @@ export const projects = [
   {
     id: 1,
     title: "Weather-Forecasting",
-    date: "2023 - 2024",
+    date: "2023",
     description:
       "Designed and developed a Tourism Web Application, offering seamless trip planning, booking, and exploration experiences for travelers.",
     image:
