@@ -26,6 +26,7 @@ const Navbar = ({ toggleTheme }) => {
           <NavLink href='#experience'>Experience</NavLink>
           <NavLink href='#projects'>Projects</NavLink>
           <NavLink href='#education'>Education</NavLink>
+          <NavLink href='#contact'>Contact</NavLink>
         </NavItems>
         <ButtonContainer>
           <LinkedInButton href={Bio.linkedin} target="_blank">LinkedIn</LinkedInButton>
@@ -37,6 +38,7 @@ const Navbar = ({ toggleTheme }) => {
             <MobileLink href='#experience' onClick={() => setIsOpen(!isOpen)}>Experience</MobileLink>
             <MobileLink href='#projects' onClick={() => setIsOpen(!isOpen)}>Projects</MobileLink>
             <MobileLink href='#education' onClick={() => setIsOpen(!isOpen)}>Education</MobileLink>
+            <MobileLink href='#education' onClick={() => setIsOpen(!isOpen)}>Contact</MobileLink>
             <LinkedInButton 
   style={{ 
     padding: '10px 16px', 
