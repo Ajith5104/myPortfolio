@@ -2,7 +2,7 @@ export const Bio = {
   name: "AJITH M",
   HeroImg:"images/heroImage.png",
   roles: [
-    "Junior Developer",
+    "Junior Software Developer",
     "Junior React Developer",
     "Junior Web Developer",
     "Junior Python Developer",
