@@ -2,16 +2,16 @@ export const Bio = {
   name: "AJITH M",
   HeroImg:"images/heroImage.png",
   roles: [
-    "Full Stack Developer",
-    "React Developer",
-    "Web Developer",
-    "Python Developer",
+    "Junior Full Stack Developer",
+    "Junior React Developer",
+    "Junior Web Developer",
+    "Junior Python Developer",
   ],
   description:
-    "Motivated Computer Science graduate with a passionfor web development and proficiency in React.JS. Seeking an entry level position as a Full Stack Developer to leverage my skills and contribute to building dynamic and responsive web applications.",
+    "Motivated and detail-oriented Computer Science graduate with practical experience in full-stack web development using React.js and the MERN stack. Strong at building responsive, user-friendly web applications with clean, maintainable code. Passionate about learning new technologies, solving realworld problems, and contributing to collaborative, high-impact development teams as an entry-level Full Stack Developer.",
   github: "https://github.com/Ajith5104",
   resume:
-    "https://drive.google.com/file/d/1-C7N0wz31n4rmn8qeu2wOD6CConIwx_9/view?usp=sharing",
+    "https://drive.google.com/file/d/1pMRejCh2bYp7fkI8WCD0rZr63NzDE2YA/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ajithkumar22/",
   email: "mailto:ajithkumar51046@gmail.com",
   insta: "https://www.instagram.com/ajithtechy22/",
@@ -170,7 +170,7 @@ export const education = [
     id: 1,
 
     school:
-      "Dr.R.K. Shanmugam college of arts and science  Affiliated Annamalai University",
+      "Dr.R.K.Shanmugam College of Arts and Science (Annamalai University)",
     date: "2022-2024",
     grade: "79%",
     desc: "",
@@ -180,7 +180,7 @@ export const education = [
     id: 2,
 
     school:
-      "Dr.R.K. Shanmugam college of arts and science Affiliated Thiruvalluvar University",
+      "Dr.R.K.Shanmugam College of Arts and Science (Thiruvalluvar University)",
     date: "2019-2022",
     grade: "84%",
     desc: "",
