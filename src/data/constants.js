@@ -11,7 +11,7 @@ export const Bio = {
     "Motivated and detail-oriented Computer Science graduate with practical experience in full-stack web development using React.js and the MERN stack. Strong at building responsive, user-friendly web applications with clean, maintainable code. Passionate about learning new technologies, solving realworld problems, and contributing to collaborative, high-impact development teams as an entry-level Full Stack Developer.",
   github: "https://github.com/Ajith5104",
   resume:
-    "https://drive.google.com/file/d/1pMRejCh2bYp7fkI8WCD0rZr63NzDE2YA/view?usp=sharing",
+    "https://drive.google.com/file/d/17o1I-rJOK9nkXJ1u_ZAXD464Ev6XqwmY/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ajithkumar22/",
   email: "mailto:ajithkumar51046@gmail.com",
   insta: "https://www.instagram.com/ajithtechy22/",
